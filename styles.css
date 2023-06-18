@@ -166,9 +166,14 @@ body {
   margin-bottom: 15px;
 }
 
+.skills__body {
+  display: flex;
+}
+
 .skills__text {
   color: var(--secondary-text-color);
   text-align: justify;
+  width: 50%;
 }
 
 /*---Experience and additional info styles---*/
