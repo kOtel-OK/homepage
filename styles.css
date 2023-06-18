@@ -259,6 +259,7 @@ body {
 
 .additional-info__education-university-name {
   color: var(--secondary-text-color);
+  margin-bottom: 20px;
 }
 
 .additional-info__languages {
