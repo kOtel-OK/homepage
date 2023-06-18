@@ -115,6 +115,10 @@ body {
   justify-content: center;
 }
 
+.pdf__icon svg {
+  fill: #f40f02;
+}
+
 .contact-info__item-icon path {
   fill: var(--icon-color);
 }
